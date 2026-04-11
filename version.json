@@ -1,6 +1,6 @@
 {
-  "versionCode":3 ,
-  "version": "v5公益版",
-  "zipUrl": "https://github.com/linjoin/Taskmild_Public_Welfare/releases/download/20260411.5/TaskMild_v5.zip",
+  "versionCode":6,
+  "version": "v6公益版",
+  "zipUrl": "https://github.com/linjoin/Taskmild_Public_Welfare/releases/download/20260412/TaskMild_v6.zip",
   "changelog": "https://github.com/linjoin/Taskmild_Public-welfare/raw/refs/heads/main/changelog.md"
 }
